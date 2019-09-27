@@ -3,10 +3,17 @@
 <img src="https://lh3.googleusercontent.com/GPBj39m9CANr89bjrlJ40QetM_JLNr2bYTm8ZKBPb4wbAjW-pjEQeacyyd53QtB61717QHyFI5y93-n3a9-z0Zwag9OIv9Y_61VvpkVFEgsZh-BmuxF3ge9uHSUgtOEVp4LNfDQsH754NXEq6TemewXbS54cPTpcnUE1t7hy1m02wUg7Au9umQCiZTMotafF40JWlSKVHsxuCllZeFym135PTBNavdOtq1TITzJt8kQmxtIFJR6zviT-BMbGl9sg4O5lHDQ2khMXFeAPGvyGkLi06htVzE2gWucmDxEhIZ5J_mStEHGSsZKPsx9gebu69BGSTKs5AISx_8LQQ8NB7dK3TG2MrWBorgDF0DB8hJcQjIBiJRlvn0JWz-WMDh6qsTKnUulkT7ih1CEhhiii82KAIsJKMhBPpbXk3KaYanxTBT7quMCB6xSFj-4Vxi_c6i3NrKu9LCwpuMvlD01S0VdcVXUkFRuhr8-qg_petO9QmqMrDMb5MLCzNZ7UO7HVjSJdNxCM6Jr85rIdsfWSslsU9fFUQCr-jas7YzXNBp4mTqMsnE2BAPDKR4Qlmdx697JOEaj66re5-sjMcJSEpoQtGzicdY4WnuqYgimKGyuVJo2X286dRqDsFALd-eqg7v7T4cDgYQooLXxEKSFLOXBqA3HpnaAHsEHvD-HgPHb3XBEBKNYLfE4=w3160-h1974-no" alt="Image of matrix code">
 
 
-Hello World! Thanks for tuning in to check out my 100 Days of Code log. This journey will not be pretty. For some it may be too much. My sanity will be put to the test, but should I prevail, I stand to become one of the most accomplished versions of myself. Stay tuned for more!
+Hello World! Thanks for tuning in to check out my 100 Days of Code log. This journey will not be pretty. For some it may be too much. My sanity will be put to the test, but should I prevail, I stand to become one of the most accomplished versions of myself. If I miss a day, don't judge. We all fall down sometimes.
 
-To my lovelies,
+I've been learning to code since February 2019 using self-directed tutorials like freeCodeCamp and now, The Odin Project. While I'm still a #CodeNewbie, I feel we can all learn from one another during our process. I hope you'll find this helpful and motivational for your own journey. Stay tuned for more!
+
+To all my lovelies,
 **Asha**
+
+<br>
+<br>
+
+<img src="https://lh3.googleusercontent.com/-ROgc5gyY1l0klMVoqguax1wuOSx0bKTA0DGFUsq4C4hiKGW08pkCOu1ivpxce0nm_8JGwNCKAIHcNmjj1qsGo9bTiOrReSSG-b879xkmW8TARkh6qMm-jauISaKI_IZm_AHeF2ulrQ5xxFdho8se50MT97Ox4QpowC2YQOz_AdV0-OpgBwqnxlF-qsxBnjM8hzEURwll7V8OBR-RqzJ2N8oU3h4fHKtlMVpfYwBATKGJmQFqHdkgnVznckaVSPHwbPIhhEK2omCOvUj65e6x2Jdww1A5Qt220L3MWyuq6Rmh-DSEwrWck9m-XTHiNOLS4NXZq3XWhCW2K3YauA0SIIEZ5yF70BZ9eRsBFiQleAxtwwjkNNNuHYkidS3aHqouX3npy4NkY67iAGf74cKjuAOvATGDpSDyMQbteFxws-nKchUOEppOaoxRrcEJmEUgSqT3LqkvDf_aVM3p8uRahdcI_Dld1DmP134OQlyWJHcTfOzKj_vSeeruTpiJSqqMeyRyamvaFk77fzAn7ssnq2QhrGi5XQ5q1z78lLDdTc4yxBUxxsa4OER91Kh13XYXFj-xe6tIq7dd-FfUyYWWKazkUwBpKKSCcRMmAQMNZSY4qO8OEVFhV0CL0yIlEQ8ivYqlegHxMjOZvOl9ICsdd3AAE-gFH9IYHJwmKFL1zLNK6Ss2acLGsQ=w1482-h1974-no" alt="Screenshot of Asha with face painted like a cat">
 
 <p align="center"><b>Follow me on Twitter </b><a href="http://www.twitter.com/ashacoleman7">here</a>.</p>
 
