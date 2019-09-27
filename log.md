@@ -8,13 +8,11 @@ Hello World! Thanks for tuning in to check out my 100 Days of Code log. This jou
 To my lovelies,
 **Asha**
 
-<img src="https://lh3.googleusercontent.com/_IWcLjap97dFpbUxRY88E78Mv6e2yIi6O9PwGx8CQJxgq6Svkncz2OA2_Z2tusrTd1vQgBx_xJCD5CYAdcWtdcZn0j25bsd5A3uB7ru29C9FIk-cj6WTSFTextsG2mVKS5bhUb9YL8VbORveIZRfk0eMRURDtcL-ZBB8JSCl6NzBo1c0ovnnampaTt6lQq8Hrk5VzlVJGemiRudPduUlX16p4hbpX3PfLm-02I8lP334_shcS1xe4EuDBYfBBATs-nvuVcRwvA-y5Wv_dJJecY_yfNLkKt_Tc0ktWZTKyT60M95oSDTtu0NzQq10365une9VajZxoZuniCzq9JdlszDBkNk_bUIEwtwJklYnHoGm-XtqIBbf7wgEotteExEhDEt05PnoZbGTarXoFSGcAZhs1DOVPy2MbQIPAVTBOkEMwm874w9ep5TkPKh_e7As8Hm-r1wdgqgp6gNIz1efsmhcHWrrucr1-BoKLgIBb3dXYWvJR7AmbxZKShlMVhwVGWmxYfnXEE9c6qT0n0morjnLjOcEymkMm6efxmZBm7f6wcM0uxtGfXlVEORROM2zAaa1E22eZ0ZLLTc0i8FvgSUb38AV7s1VyeFBL6jbGa7wxVizuyb4C-0ZnqX3HKotMLj7OyImCgaGgY50VKVf6CGs_3QG-S5MqcY6Y1Jx5_1_h6YAbkbkk7M=w1482-h1974-no" width="300" height="650" align="left" alt="Headshot of Asha Coleman with face painted like a cat *meow*">
-
-
 <p align="center"><b>Follow me on Twitter </b><a href="http://www.twitter.com/ashacoleman7">here</a>.</p>
 
 <p align="center"><b>Check out my repos </b><a href="https://github.com/AshaColeman">here</a>.</p>
 
+<br>
 <h2 align="center">Welcome to my World</h2>
 <hr>
 <br>
@@ -34,6 +32,6 @@ To my lovelies,
 
 **Today's Progress**:  Coded my Github Log page to make it more visually enjoyable as suggested by Joe Warren (link to article: https://www.freecodecamp.org/news/how-to-transform-your-100daysofcode-log-into-a-visual-experience-d048334af8d9/).
 
-<img src="https://lh3.googleusercontent.com/0P1VgSH9ZgSESidzFt1qH_zwcm_wPRIXIyydNbugQMwJnDLC0-ZZgLS9zq6lJ_ph5wZdK8TDqDbVgUDawInWegKSXn5-ewhryIOysCbJnyzpeDCuqzZoRAh5c0QrTIT9BsHM7aH4KBwgPJ7uB9sfu00gGJSaywGLn0lKIbWToJARuDgLUYVq-e_9hPvYdcSqWq2YF1xiAb4hodld_ME3DQRqsC_Sw_-mhOv3YGShb30SqFZE_Cvf86qDYr7QdQ8SBA-4it_SG50VdiQTr8resAPWvKdZHOKScf3DATPK-Xi17bsbr98xgA6m9X5EmX1EVGyxEiiDRqDL7Jrxkodh_XMfzfkSxv3DydX809Y0mW62x2ItJ4Sad6yMXl9Tlire9CjBCWznO28QGkpMwMYsCSsGZtYK-lbXCb5WuOYcJKgZ6eG4T2c2jTdhQyPI8WflSJyw5VWktS_wd4jN4mwWH_Ib7QHepS77fqkejLWayGRF0fTVqNdu1evo03PWsxW5eDiaOTKQ2byTkUFnGrVfcz1BAIphwy62bv1a35XhTjr88uzfxhxI-AfUZRbiV3eAfFUhkEIYg-0kjXFN-S9PFwIfCp6OO0eaoEkfS9K0KNv62BvSFw6ACODyIIE6lM4zApiQGXymVnCb8FfXdxcldy2LBp2s7Az2Rwgw2uAvLgHOCzOC1tVVJYA=w1832-h1662-no alt="Screenshot of Github Log code">
+<img src="https://lh3.googleusercontent.com/0P1VgSH9ZgSESidzFt1qH_zwcm_wPRIXIyydNbugQMwJnDLC0-ZZgLS9zq6lJ_ph5wZdK8TDqDbVgUDawInWegKSXn5-ewhryIOysCbJnyzpeDCuqzZoRAh5c0QrTIT9BsHM7aH4KBwgPJ7uB9sfu00gGJSaywGLn0lKIbWToJARuDgLUYVq-e_9hPvYdcSqWq2YF1xiAb4hodld_ME3DQRqsC_Sw_-mhOv3YGShb30SqFZE_Cvf86qDYr7QdQ8SBA-4it_SG50VdiQTr8resAPWvKdZHOKScf3DATPK-Xi17bsbr98xgA6m9X5EmX1EVGyxEiiDRqDL7Jrxkodh_XMfzfkSxv3DydX809Y0mW62x2ItJ4Sad6yMXl9Tlire9CjBCWznO28QGkpMwMYsCSsGZtYK-lbXCb5WuOYcJKgZ6eG4T2c2jTdhQyPI8WflSJyw5VWktS_wd4jN4mwWH_Ib7QHepS77fqkejLWayGRF0fTVqNdu1evo03PWsxW5eDiaOTKQ2byTkUFnGrVfcz1BAIphwy62bv1a35XhTjr88uzfxhxI-AfUZRbiV3eAfFUhkEIYg-0kjXFN-S9PFwIfCp6OO0eaoEkfS9K0KNv62BvSFw6ACODyIIE6lM4zApiQGXymVnCb8FfXdxcldy2LBp2s7Az2Rwgw2uAvLgHOCzOC1tVVJYA=w1832-h1662-no" alt="Screenshot of Github Log code">
 
 **Thoughts**:  This was something I felt I needed to do for myself because I like to have somewhat of a structure in place when completing projects. I mean who doesn't take time in some form or fashion to make themselves look good. Taking the time to change up the structure of my log is my form of primping. I enjoyed knowing that this would help me further down the line and it also still counts as an hour of coding! #FTW
