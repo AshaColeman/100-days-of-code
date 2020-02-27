@@ -72,3 +72,13 @@ To all my lovelies,
 <img src="https://lh3.googleusercontent.com/QW1BxiYieYoPU-_S_qke1R7kl-cd0N9WKrdBYVqtQxd1Ltz1KFri0pTGa7ioJSussvdyfOwN1m8hbYwzMgg72mhITg8PFkx1pERqRRJnIHlIwyM6XZBq1hDz5lxjdVGF_Ykvyhv7CHZ1TkmeyUvklcP9szwLayZfbhZp73Uae-6LotVB9zWpbg2f0zZxGhef2Sx1BwHcEOoUwZZGmkJQJ23VHmCJfLKZYWifKwTfc4YSjUxDFTX9aKf3buUfvuFb3wJ8qyrhhW8JSWy0GWpkSj-ggjReMJvqMyP8sSvWm0ULqhZUKSBNg2DhXOA7DGhxf_b-aMJzVT7hIZSKYcclGzBo1pF32hLjBWOGH3evbe6WGV0M04upyuf0n03NzpKabO4edqMKEzBsIkL5STKKtZ-pfBvXl_2M-ACs_feSq7L9S0kD067PEJnpvzv9xdvj3vRmSBijwRm02w6yVSasKwuXZAu8BWzMbtFrf1uT2CAuLVmsHRl0J-SQRwljR8UTpoxB-VA7VKINNwR1D30rQL6GA-SFBeeWeqBd2yRS1H1w2vBeK9l8HugjzDv_XgCBMtGApk4yVaF3UxyOFtXRHDvh7LWeepXnayUXDVp77E9OKXp0LrhfSk4uyYCVfnfxUhAJoOYeQmDY5XEkzuuW79Z8GYl2JFEyH3S1O8npp6qoIo5sYhFWtdHAJTzFHdXiWnM0-tyLOeLuwdS1BAGl9fJQtvttEW-PL5cHl17ohvp4O2ZG=w1680-h943-no" alt="Screenshot of HTML code tutorial on Codecademy">
 
 **Thoughts**:  A little disappointed that I missed a day. Granted I started a new class yesterday and realized I already have a post/project due on Wednesday, but I hated that I missed it. Also, I'm still trying to figure out how to get my photos to show up so that sucks too (If you're reading this and the photos still aren't showing, any tips are welcome). On a slightly better note, I am going over a refresher of HTML and CSS before FINALLY learning JavaScript. I have been wanting to learn JS for some time now so while I'd love to just skip over the HTML/CSS basics and get straight to it, I feel the smarter choice would be to do a little refresher since it's been a few months since I was heavily learning code. Needless to say, I hope to finish the HTML/CSS tutorial after work tonight so I can start on JS tomorrow. Wish me luck!
+
+
+
+### Day 6:  Monday, February 24, 2020
+
+**Today's Progress**:  Refresher on coding HTML with Codecademy
+
+<img src="https://lh3.googleusercontent.com/QW1BxiYieYoPU-_S_qke1R7kl-cd0N9WKrdBYVqtQxd1Ltz1KFri0pTGa7ioJSussvdyfOwN1m8hbYwzMgg72mhITg8PFkx1pERqRRJnIHlIwyM6XZBq1hDz5lxjdVGF_Ykvyhv7CHZ1TkmeyUvklcP9szwLayZfbhZp73Uae-6LotVB9zWpbg2f0zZxGhef2Sx1BwHcEOoUwZZGmkJQJ23VHmCJfLKZYWifKwTfc4YSjUxDFTX9aKf3buUfvuFb3wJ8qyrhhW8JSWy0GWpkSj-ggjReMJvqMyP8sSvWm0ULqhZUKSBNg2DhXOA7DGhxf_b-aMJzVT7hIZSKYcclGzBo1pF32hLjBWOGH3evbe6WGV0M04upyuf0n03NzpKabO4edqMKEzBsIkL5STKKtZ-pfBvXl_2M-ACs_feSq7L9S0kD067PEJnpvzv9xdvj3vRmSBijwRm02w6yVSasKwuXZAu8BWzMbtFrf1uT2CAuLVmsHRl0J-SQRwljR8UTpoxB-VA7VKINNwR1D30rQL6GA-SFBeeWeqBd2yRS1H1w2vBeK9l8HugjzDv_XgCBMtGApk4yVaF3UxyOFtXRHDvh7LWeepXnayUXDVp77E9OKXp0LrhfSk4uyYCVfnfxUhAJoOYeQmDY5XEkzuuW79Z8GYl2JFEyH3S1O8npp6qoIo5sYhFWtdHAJTzFHdXiWnM0-tyLOeLuwdS1BAGl9fJQtvttEW-PL5cHl17ohvp4O2ZG=w1680-h943-no" alt="Screenshot of HTML code tutorial on Codecademy">
+
+**Thoughts**:  
